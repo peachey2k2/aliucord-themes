@@ -1,0 +1,61 @@
+{
+    "manifest": {
+        "author": "peachey2k2#2612",
+        "name": "peatheme",
+        "transparency_mode": 3,
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/peachey2k2\/peatheme\/main\/peatheme.json"
+    },
+    "background": {
+        "blur_radius": 0,
+        "overlay_alpha": 100,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/538437850085982238\/994265116554055730\/Screenshot_20220706-1834132.png"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/929470419696758785\/993876086867890206\/Quicksand-Medium.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": 855701748,
+        "active_channel": 1258354932,
+        "statusbar": -16777216,
+        "accent": 1677785332,
+        "input_background": 0,
+        "background_secondary": 0,
+        "background": 0
+    },
+    "colors": {
+        "cardview_dark_background": 8488585,
+        "link_500": -1342113548,
+        "primary_dark_100": -16777216,
+        "primary_dark_630": 0,
+        "primary_dark_700": 0,
+        "primary_630": 1057028340,
+        "primary_300": 2130770164,
+        "primary_700_alpha_60": 0,
+        "white": -1325336332,
+        "white_800": -16777216,
+        "status_grey_200": 0,
+        "uikit_btn_bg_color_selector_green": -1342113548,
+        "link": -1342113548,
+        "uikit_btn_bg_color_selector_red": -16777216,
+        "transparent": 0,
+        "black_alpha_80": 1241513984,
+        "primary_600": 838924532,
+        "brand_new": -1293490458,
+        "primary_dark_800": 0,
+        "primary_dark_600": 0,
+        "white_500": -1342113548,
+        "uikit_btn_bg_color_selector_brand": -1744830464,
+        "primary_660": 0,
+        "primary_700": 620756992,
+        "uikit_settings_item_text_color_light": 2139127936,
+        "uikit_settings_item_text_color_dark": -1314478426
+    },
+    "drawable_tints": {
+        "drawable_voice_indicator_speaking": -1342113548,
+        "drawable_overlay_channels_selected_dark": 1275121151,
+        "drawable_button_grey": 0,
+        "drawable_button_red": 0
+    },
+    "raws": {}
+}
