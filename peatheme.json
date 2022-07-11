@@ -3,7 +3,7 @@
         "author": "peachey2k2#2612",
         "name": "peatheme",
         "transparency_mode": 3,
-        "version": "1.0.0",
+        "version": "1.0.1",
         "updater": "https:\/\/raw.githubusercontent.com\/peachey2k2\/aliucord-themes\/main\/peatheme.json"
     },
     "background": {
@@ -37,7 +37,7 @@
         "status_grey_200": 0,
         "uikit_btn_bg_color_selector_green": -1342113548,
         "link": -1342113548,
-        "uikit_btn_bg_color_selector_red": -16777216,
+        "uikit_btn_bg_color_selector_red": -10592674,
         "transparent": 0,
         "black_alpha_80": 1241513984,
         "primary_600": 838924532,
