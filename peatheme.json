@@ -3,7 +3,7 @@
         "author": "peachey2k2#2612",
         "name": "peatheme",
         "transparency_mode": 3,
-        "version": "1.0.1",
+        "version": "1.0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/peachey2k2\/aliucord-themes\/main\/peatheme.json"
     },
     "background": {
@@ -30,7 +30,7 @@
         "primary_dark_630": 0,
         "primary_dark_700": 0,
         "primary_630": 1057028340,
-        "primary_300": 2130770164,
+        "primary_300": -16734557,
         "primary_700_alpha_60": 0,
         "white": -1325336332,
         "white_800": -16777216,
